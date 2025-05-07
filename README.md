@@ -1,4 +1,4 @@
-# 🌿 Projeto HTML - Parque Estadual Ilhabela
+# 🌿 Projeto HTML - Parque Estadual Ilha bela
 
 Este é o meu **primeiro projeto utilizando HTML puro**, desenvolvido com base nos conhecimentos adquiridos no curso da **DevMedia**.
 
