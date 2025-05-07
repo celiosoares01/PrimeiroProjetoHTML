@@ -21,11 +21,6 @@ O site criado apresenta informações sobre o **Parque Estadual Ilha bela**, tra
 
 [Acesse aqui o site publicado](https://projeto-parque-estadual-ilha-bela.netlify.app/)
 
-## 🖼️ Captura de tela
-
-![Screenshot do site](![parque-ilha-bela](https://github.com/user-attachments/assets/cf2e79f7-5fdc-40b7-ae12-eabf46d676d4)
-)
-
 ## 🎯 Objetivo
 
 Este projeto tem como finalidade reforçar o aprendizado dos conceitos fundamentais de HTML, servindo como base para projetos mais avançados no futuro.
